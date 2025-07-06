@@ -1,5 +1,7 @@
 #Python
 
+a,b = list(map(int,input().split()))
+print(f"{((a+b)/2):.2f}")
 
 #Java
 
